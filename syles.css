@@ -1,4 +1,7 @@
-
+h1 {
+  color: red;
+  font-family: sans-serif;
+  }
 p {
   color: blue;
   font-family:Helvetica;
@@ -14,9 +17,4 @@ p{I am a paragraph I should be blue}
 ol li{
 background-color: teal:
 
-}
-
-h3 {
-color: green;
-font-family:Helvetica;
 }
